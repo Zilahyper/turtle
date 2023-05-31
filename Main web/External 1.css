@@ -279,7 +279,7 @@ article h4 {
 #hero-image2 {
     height: 580px;
     padding-top: 1px;
-    background:url(Images/hikkaban.jpg) no-repeat center;
+    background:url(images/hikkaban.jpg) no-repeat center;
 }
 #hero-image2 h2 {
     margin: 180px 0 40px 0;
@@ -299,7 +299,7 @@ article h4 {
 #hero-image3 {
     height: 580px;
     padding-top: 1px;
-    background:url(Images/turtlecatban.jpg) no-repeat center;
+    background:url(images/turtlecatban.jpg) no-repeat center;
 }
 #hero-image3 h2 {
     margin: 180px 0 40px 0;

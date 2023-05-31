@@ -104,7 +104,7 @@ header nav ul li a {
 #hero-image {
     height: 580px;
     padding-top: 1px;
-    background:url(Images/threats.jpg) no-repeat center;
+    background:url(images/threats.jpg) no-repeat center;
 }
 #hero-image h2 {
     margin: 180px 0 40px 0;
